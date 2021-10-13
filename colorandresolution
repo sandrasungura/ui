@@ -34,7 +34,7 @@
                 <div class="inner">
                     <ul class="links">
                         <li><a href="index.html">Home</a></li>
-                        <li><a href="elements.html">Color and resolution</a></li>
+                        <li><a href="colorandresolution.html">Color and resolution</a></li>
                         <li><a href="elements.html">Exporting</a></li>
                         <li><a href="elements.html">Implementing</a></li>
                         <li><a href="elements.html">Pipeline UE4</a></li>
