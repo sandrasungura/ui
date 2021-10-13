@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>UI Content</title>
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/ionicons.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Istok+Web:400,400i,700,700i" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+        <link href="assets/css/main.css" rel="stylesheet">
+	</head>
+	<body>
+		<!-- preloader -->
+	    <div id="preloader"></div>
+	    <!-- end of preloader -->
+
+	    <div class="body-content" style="display:none;">
+		    				<!-- Page Wrapper -->
+			<div id="elements-page-wrapper">
+			    <div class="navbar-solid-state">
+			         <!-- Header -->
+			        <header id="header" class="alt">
+			            <!-- <h1><a href="index.html" class="a-transparent">UI Content</a></h1> -->
+			            <nav>
+			                <a href="#menu" class="a-menu">Menu <i class="ion-android-menu"></i> </a>
+			            </nav>
+			        </header>
+
+	    <!-- Menu -->
+            <nav id="menu">
+                <div class="inner">
+                    <ul class="links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="elements.html">Color and resolution</a></li>
+                        <li><a href="elements.html">Exporting</a></li>
+                        <li><a href="elements.html">Implementing</a></li>
+                        <li><a href="elements.html">Pipeline UE4</a></li>
+                        <!-- <li><a href="#">Log In</a></li>
+                        <li><a href="#">Sign Up</a></li> -->
+                    </ul>
+                    <a href="#" class="close">Close</a>
+                </div>
+            </nav>
+        </div>
+	    		</div>
+
+			    <section id="element-header" class="elements-header">
+			    	<div class="overlay"></div>
+			    	<div class="container">
+			    		<div class="row">
+			    			<div class="header-design">
+			    				<div class="col-md-12">
+			    					<h1 class="elements-h">Textures intro</h1>
+			    				</div>
+			    				<div class="col-md-12">
+			    					<P>
+			    						Phasellus non pulvinar erat. Fusce tincidunt nisl eget ipsum.
+			    					</P>
+			    				</div>
+			    			</div>
+			    		</div>
+			    	</div> 
+			    </section>
+			    <section id="elements-one">
+		    		<div class="container">
+		    			<div class="row">
+		    				<div class="elements-one-design">
+		    					<div class="col-md-12">
+		    						<h2 style="text-color:black; margin-bottom:4%;">Heading 1 With Paragraph</h1>
+		    					</div>
+		    					<div class="col-md-12">
+		    						<p style="text-color:black;">
+		    							Lorem Ipsum available, but the majority have suffered This alteration in some form, by injected is a humour, or randomised words which don’t look even sligh is made  believable. If  to use and yammi passage of Lorem Ipsum, you need to be sure there isn’t by pioneer designer anything embarrassing hidden in the middle of text.
+
+		    						</p>
+		    					</div>
+		    				</div>
+
+		    					<div class="col-md-12">
+		    						<ol style="text-color:black;">
+		    							<li>
+		    								All the Lorem Ipsum generators on the Internet tend to repeat.
+		    							</li>
+		    							<li>
+		    								Making this the first true generator on the Internet.
+		    							</li>
+		    							<li>
+		    								The generated Lorem ipsum doler set emet.
+		    							</li>
+		    							<li>
+		    								Always free from repetition injected.
+		    							</li>
+		    						</ol>
+		    					</div>
+		    				</div>
+
+		    			</div>
+		    		</div>
+			    </section>
+
+						<div class="footer-bottom">
+							<div class="row">
+								<div class="col-md-12">
+									<p>&copy; TECHNEXT 2016. ALL RIGHTS RESERVED BY <a href="http://www.themewagon.com" target="_blank">THEMEWAGON</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+	    </div>
+
+
+
+		<script src="assets/js/jquery.min.js"></script>
+	    <script src="assets/js/bootstrap.min.js"></script>
+	    <script src="assets/js/main.js"></script>
+	</body>
+</html>
